@@ -5,7 +5,7 @@ The numerical framework is based on a level-set topology optimization method dri
 
 The designed microstructures are experimentally validated using the Virtual Fields Method (VFM), relying on full-field displacement measurements and force data to identify effective stiffness tensors and assess the targeted symmetry properties.
 
-This repository includes:
-	•	Multiscale finite-element homogenization of periodic microstructures
-	•	Level-set evolution based on topological sensitivity analysis + Invariant-driven optimization toward R0-orthotropy
-	•	Experimental identification and uncertainty analysis via VFM
+This repository includes:	
+•	Multiscale finite-element homogenization of periodic microstructures
+•	Level-set evolution based on topological sensitivity analysis + Invariant-driven optimization toward R0-orthotropy
+•	Experimental identification and uncertainty analysis via VFM
